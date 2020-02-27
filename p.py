@@ -1,3 +1,10 @@
+"""
+After my first attempt at this, I went to look at solutions on the internet to compare and realized this solution is broken.
+
+It will work with palindromes like 'abcba' but not 'abccba'.
+
+Such a stupid mistake. I will try again and update.
+"""
 
 string = 'adskjfhaaaaenmeawprunxczujweflkjdrurshdshmadamlsakmamadamamjdsalkqwbkqw'
 #string = 'aaaaaa'
